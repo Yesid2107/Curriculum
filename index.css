@@ -75,7 +75,6 @@ body{
     display:inline ;
     margin-right:20px ;
 }
-
 .info .infoname{
     color: #F4FFF8;
     font-family: 'DM Serif Display';
@@ -83,6 +82,52 @@ body{
     font-size: medium;
     display: inline;
 }
+.info .infodir{
+    color: #F4FFF8;
+    font-family: 'DM Serif Display';
+    font-weight: bolder;
+    font-size: medium;
+    display:inline ;
+    margin-right:20px ;
+}
+
+.info .infodir1 {
+    color: #F4FFF8;
+    font-family: 'DM Serif Display';
+    font-size: medium;
+    display:inline;
+    margin-right:20px ;}
+   
+.info .infotel{
+        color: #F4FFF8;
+        font-family: 'DM Serif Display';
+        font-weight: bolder;
+        font-size: medium;
+        display:inline ;
+        margin-right:20px ;
+    }
+
+.info .infotel1 {
+        color: #F4FFF8;
+        font-family: 'DM Serif Display';
+        font-size: medium;
+        display:inline;
+        margin-right:20px ;}
+
+.info .infoem{
+        color: #F4FFF8;
+        font-family: 'DM Serif Display';
+        font-weight: bolder;
+        font-size: medium;
+        display:inline ;
+        margin-right:20px ;
+    }
+.info .infoem1{
+        color: #F4FFF8;
+        font-family: 'DM Serif Display';
+        font-size: medium;
+        display:inline;
+        margin-right:20px ;}
 .info span{
     display: inline block;
     width: auto;
@@ -93,4 +138,22 @@ body{
     color: #D0D1AC;
     font-family: 'Courier New', Courier, monospace;
     border-radius: 5px;
+}
+.info .link{
+    display: inline block;
+    width: auto;
+    height: auto;
+    padding-left: 1%;
+    padding-right: 1%;
+    background: blue;
+    color: #D0D1AC;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5px;
+}
+
+footer{
+    width: 80%;
+    height: 100px;
+    background: #379392;
+    
 }
